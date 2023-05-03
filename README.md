@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nirav-gajera
-- 👀 I’m interested in Php|Laravel|Vuejs
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate
+- 👀 I’m interested in Web Developing
+- 🌱 I’m currently learning  PHP| Laravel| Vuejs
 - 📫 How to reach me https://www.linkedin.com/in/nirav-gajera-3a156b14b
 
 <!---
