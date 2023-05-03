@@ -13,3 +13,5 @@ You can click the Preview link to take a look at your changes.
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nirav-gajera&theme=tokyonight)
 
 [![Hits](https://hits.sh/github.com/silentsoft/hits.svg)](https://hits.sh/github.com/nirav-gajera)
+
+![Github_trophies](https://github-profile-trophy.vercel.app/?username=nirav-gajera&no-frame=true&theme=tokyonight)
