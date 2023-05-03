@@ -8,11 +8,9 @@ nirav-gajera/nirav-gajera is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=nirav-gajera&show_icons=true&theme=tokyonight)
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=nirav-gajera&show_icons=true&theme=tokyonight) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nirav-gajera&theme=tokyonight)](https://git.io/streak-stats)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nirav-gajera&theme=tokyonight)
-
-![Github_trophies](https://github-profile-trophy.vercel.app/?username=nirav-gajera&no-frame=true&theme=tokyonight)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nirav-gajera&theme=tokyonight)  ![Github_trophies](https://github-profile-trophy.vercel.app/?username=nirav-gajera&no-frame=true&theme=tokyonight) 
 
 [![Hits](https://hits.sh/github.com/silentsoft/hits.svg)](https://hits.sh/github.com/nirav-gajera)
 
