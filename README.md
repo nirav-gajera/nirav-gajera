@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/i_niravgajera" target="blank"><img src="https://img.shields.io/twitter/follow/i_niravgajera?logo=twitter&style=for-the-badge" alt="i_niravgajera" /></a> </p>
 
-- 🔭 I’m currently working on **Larvel Projects**
 
 - 🌱 I’m currently learning **PHP | Laravel**
 
