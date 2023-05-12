@@ -35,3 +35,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nirav-gajera&show_icons=true&locale=en" alt="nirav-gajera" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirav-gajera&" alt="nirav-gajera" /></p>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/niravgajera"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="niravgajera" /></a></p><br>
