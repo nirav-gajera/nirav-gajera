@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nirav Gajera</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirav-gajera&label=Profile%20views&color=0e75b6&style=flat" alt="nirav-gajera" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nirav-gajera" alt="nirav-gajera" /></a> </p>
+<p align="left"> <a href="https://github.com/nirav-gajera/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nirav-gajera" alt="nirav-gajera" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/i_niravgajera" target="blank"><img src="https://img.shields.io/twitter/follow/i_niravgajera?logo=twitter&style=for-the-badge" alt="i_niravgajera" /></a> </p>
 
