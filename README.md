@@ -25,6 +25,7 @@
 <a href="https://stackoverflow.com/users/21623940/nirav-gajera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nirav-gajera" height="30" width="40" /></a>
 <a href="https://fb.com/nirav.gajera.9220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nirav.gajera.9220" height="30" width="40" /></a>
 <a href="https://instagram.com/mr._nirav_09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr._nirav_09" height="30" width="40" /></a>
+  <a href="https://web.snapchat.com/nirav_0908" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/snapchat.svg" alt="mr._nirav_09" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
