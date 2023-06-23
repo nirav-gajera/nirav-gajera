@@ -33,6 +33,7 @@
  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" width="40" height="40" />
   </a>
+  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40"/></a>
   <img src="https://img.icons8.com/color/48/000000/git.png"  alt="git" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/github.png" alt="github" width="40" height="40"/>
     <img src="https://img.icons8.com/color/48/000000/sublime-text.png" alt="Sublime Text" width="40" height="40" />
