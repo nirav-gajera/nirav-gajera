@@ -6,6 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome!;Thanks+for+being+here!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50" />
 </p>
 </br>
+<!-- <h3 align="left">Trohies:</h3> -->
 
 <p align="left">
     <a href="https://github.com/nirav-gajera/github-profile-trophy">
@@ -14,6 +15,7 @@
 </p>
 
 </br>
+<h3 align="left">About Me:</h3>
 
 <p align="left"> <a href="https://twitter.com/i_niravgajera" target="blank"><img src="https://img.shields.io/twitter/follow/i_niravgajera?logo=twitter&style=for-the-badge" alt="i_niravgajera" /></a> </p>
 
@@ -57,7 +59,7 @@
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/phpmyadmin.svg" alt="phpMyAdmin" width="40" height="40" />
 
 </p>
-
+<h3 align="left">Github Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirav-gajera&show_icons=true&locale=en&layout=compact" alt="nirav-gajera" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nirav-gajera&show_icons=true&locale=en" alt="nirav-gajera" /></p>
