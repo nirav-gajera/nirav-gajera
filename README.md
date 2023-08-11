@@ -67,7 +67,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nirav-gajera&show_icons=true&locale=en" alt="nirav-gajera" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirav-gajera&" alt="nirav-gajera" /></p>
-<a href="https://wakatime.com/@77752314-744e-4186-9174-8e341bcc2356">
+<a href="https://wakatime.com/@niravgajera1">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=nirav-gajera&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
   </a>
 <h3 align="left">Support:</h3>
