@@ -55,7 +55,9 @@
   </a>
   <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40"/></a>
   <img src="https://img.icons8.com/color/48/000000/git.png"  alt="git" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/github.png" alt="github" width="40" height="40"/>
+<a href="https://github.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" width="40" height="40" />
+</a>
     <img src="https://img.icons8.com/color/48/000000/sublime-text.png" alt="Sublime Text" width="40" height="40" />
     <img src="https://img.icons8.com/color/48/000000/slack-new.png" alt="Slack" width="40" height="40" />
     <img src="https://img.icons8.com/color/48/000000/database.png" alt="Database" width="40" height="40" />
