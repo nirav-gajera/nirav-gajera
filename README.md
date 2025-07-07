@@ -20,15 +20,15 @@
 <p align="left"> <a href="https://twitter.com/i_niravgajera" target="blank"><img src="https://img.shields.io/twitter/follow/i_niravgajera?logo=twitter&style=for-the-badge" alt="i_niravgajera" /></a> </p>
 
 
-- 🌱 I’m currently learning **PHP | Laravel**
+- 🌱 I’m currently working on  **PHP | Laravel | Laravel Nova | Vue.js | Codeigniter**
 
 - 👀 I’m interested in **Web Developing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nirav-gajera?tab=repositories](https://github.com/nirav-gajera?tab=repositories)
 
-- 💬 Ask me about **php, laravel**
+- 💬 Ask me about **Php, Laravel, VueJS, Laravel, Nova, Codeigniter**
 
-- 📫 How to reach me **https://www.linkedin.com/in/nirav-gajera-3a156b14b**
+- 📫 How to reach me **https://www.linkedin.com/in/nirav-gajera1**
   </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirav-gajera&label=Profile%20views&color=0e75b6&style=flat" alt="nirav-gajera" /> </p>
 
