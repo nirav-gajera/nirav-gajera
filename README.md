@@ -65,7 +65,7 @@ class NiravGajera extends FullStackDeveloper
         "Automated Testing (Pest, PHPUnit)",
     ];
 
-    public string $portfolio = "🌐 nirav-gajera.github.io";
+    public string $portfolio = "🌐 niravgajera.indevs.in";
     public string $email     = "📧 niravgajera1@gmail.com";
     public string $linkedin  = "💼 linkedin.com/in/nirav-gajera1";
 
@@ -104,7 +104,7 @@ class NiravGajera extends FullStackDeveloper
   </tr>
   <tr>
     <td>🌐 <b>Portfolio</b></td>
-    <td><a href="http://nirav-gajera.github.io">nirav-gajera.github.io</a></td>
+    <td><a href="https://niravgajera.indevs.in">niravgajera.indevs.in</a></td>
   </tr>
   <tr>
     <td>📍 <b>Location</b></td>
@@ -184,7 +184,7 @@ class NiravGajera extends FullStackDeveloper
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-07090f?style=for-the-badge&logo=githubpages&logoColor=4f9cf9)](http://nirav-gajera.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-07090f?style=for-the-badge&logo=githubpages&logoColor=4f9cf9)](https://niravgajera.indevs.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nirav-gajera1)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niravgajera1@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/i_niravgajera)
